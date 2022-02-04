@@ -1,0 +1,56 @@
+---
+  # List of episodes: 
+  -
+    episode_number: 1
+    url: https://www.youtube.com/watch?v=Gi8LUnhP5yU
+    guest: Max Tegmark
+    upload_date: 2018-04-19
+    watched: true
+    notes:
+      - 
+        timestamp: 148
+        question: "Are there intelligent life forms in the universe?"
+        answer: "If they are farther than 10^26 meters, it is beyond our known universe where the light has come from, therefore we don't know. If they were closer than 10^16 we would have run into one of their engineering projects by now. So, it is highly unlikely and that puts a lot of responsibility on our shoulders. Let's be grateful. We can't screw up."
+      -
+        timestamp: 1094
+        question: "Do you need to have a body [to have consciousness]?"
+        answer: "No. Having a body helps a lot to learn the human experience. However, once you learned it you don't need a body to experience it. Think of dreaming. You are having an experience but it is not coming from bodily sensors. It is the information processing itself that is causing the experience."
+      -
+        timestamp: 1150
+        question: "Doesn't AI need self-preservation? A body to protect itself?"
+        answer: "When you have self-preservation instinct you will be limited. When we build machines and give them a goal, it will break the goal into smaller pieces and one of those smaller goals will always be self-preservation. Otherwise it will fail to do the goal for which it was built. Intelligence is the ability to accomplish complex goals. It doesn't require the fear of death to accomplish those goals."      
+      
+      -
+        timestamp: 4268
+        question: "How to help people not freak about the risks of AI"
+        answer: "Freaking is not going to help. Think about the upside as well, like curing cancer. Not dismissing the risk is the part of it. Attitude is important. Do not recklessly give power to AI. Don't start with the risks, the downside, the pessimist attitude. Focus on the empowering not overpowering."
+  -
+    episode_number: 2
+    url: https://www.youtube.com/watch?v=piHkfmeU7Wo
+    guest: Christof Koch
+    upload_date: 2018-05-29
+    watched: true
+    notes:
+      - 
+        timestamp: 364
+        question: "What is the gap between a really smart AI but not having experience?"
+        answer: "That is a big question that occupied people for the last 50 years, since the advent of computers and Turing test. Siri, Alexa, Google Now (now called Assistant), Watson etc. can pass that test at some point. However, that is intelligence. There is a difference between conciousness. There are different levels of conciousness. Conciousness is not about function, it is about being."
+
+      -
+        timestamp: 1536
+        question: "Do you think intelligence requires conciousness?"
+        answer: "In humans, in biology, in an evolved system, they go hand in hand. In an artificial system, they don't. Even a computer system mapped to brain doesn't have conciousness. Simulating intelligence is not the same as having conciousness. A black hole sucks everything around it, a simulation of black hole doesn't. There is a difference between reality and simulation. It needs to have the same causal powers as conciousness."
+      
+      -
+        timestamp: 1800
+        question: "If we create beneficial AI, one with ethics, do you think then it is going to have conciousness?"
+        answer: "Yes, if we ever going to have a powerful AI, it is important that it has empathy which, in Greek, means to be feeling with somebody. Why most of find abusing any animal appalling? Because we have empathy, so does need the AI to be beneficial to humanity."
+
+  -
+    episode_number: 3
+    url: https://www.youtube.com/watch?v=epQxfSp-rdU
+    guest: Steven Pinker
+    upload_date: 2018-10-17
+    watched: false
+    notes:
+      -
